@@ -1,5 +1,8 @@
-<h1 align="center">Hi there! I am Neelesh Singh 👋</h1>
+<h1 align="center">Hi there! I'm Neelesh Singh 👋</h1>
 <h3 align="center">A passionate about Web and Flutter development</h3>
+<div>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=singhsduos&label=Profile%20views&color=0e75b6&style=flat" alt="singhsduos" /> </p>
+ </div>
 
 - 🌱 I’m currently learning **Web Development**
 
