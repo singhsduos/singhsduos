@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! I am Neelesh Singh</h1>
 <h3 align="center">A passionate about web development and flutter development</h3>
 
-- 🌱 I’m currently learning **CSS and Javascript**
+- 🌱 I’m currently learning **Web Development**
 
 - 💬 Ask me about **C++, Web Development, DBMS, OS**
 
