@@ -30,4 +30,5 @@
   <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=singhsduos&theme=dark" alt="singhsduos" /></p>
   </div>
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=singhsduos&theme=dark" alt="singhsduos" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=singhsduos&label=Profile%20Views&color=6805D3&style=flat" alt="jigar-sable" /> </p>
+ 
