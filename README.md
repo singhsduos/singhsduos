@@ -2,6 +2,7 @@
 <h3 align="center">A passionate about Web and Flutter development</h3>
 <div>
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=singhsduos&label=Profile%20views&color=0e75b6&style=flat" alt="singhsduos" /> </p>
+ <img align="right" alt="Coding" width="400" src="gif/animation.gif">
  </div>
 
 - 🌱 I’m currently learning **Web Development**
