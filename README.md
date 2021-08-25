@@ -6,7 +6,7 @@
 
 
 - 🔭 Working on **JavaScript and ReactJS**
-- 
+
 - 🌱 I’m currently learning **MERN Stack**
 
 - 💬 Ask me about **C++, DBMS, DSA, Web Development**
