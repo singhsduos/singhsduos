@@ -5,10 +5,13 @@
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=singhsduos&label=Profile%20views&color=0e75b6&style=flat" alt="singhsduos" /> </p>
 
 
-
-- 🌱 I’m currently learning **Web Development**
+- 🔭 Working on **JavaScript and ReactJS**
+- 
+- 🌱 I’m currently learning **MERN Stack**
 
 - 💬 Ask me about **C++, DBMS, DSA, Web Development**
+
+- 👯 Wan to collaborate **With other Developers**
 
 - 📫 How to reach me **ns9628491678@gmail.com**
 
