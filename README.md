@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **C++, DBMS, DSA, Web Development**
 
-- 👯 Wan to collaborate **With other Developers**
+- 👯 Want to collaborate **With other Developers**
 
 - 📫 How to reach me **ns9628491678@gmail.com**
 
