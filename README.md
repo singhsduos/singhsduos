@@ -1,4 +1,4 @@
-<img src="gif/THINK-GITHUB.png" style="width:100%; height:100%;"/>
+
 
 
 
