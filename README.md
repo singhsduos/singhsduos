@@ -10,7 +10,7 @@
 <h1 align="center">Hi I'm Neelesh Singh <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
 <h3 align="center">A passionate about Web and Flutter development</h3>
 
- <img align="right" alt="Coding" width="450" height="450" src="gif/animation2.gif">
+ <img align="right" alt="Coding" width="300" height="300" src="gif/animation2.gif">
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=singhsduos&label=Profile%20views&color=0e75b6&style=flat" alt="singhsduos" /> </p>
 
 
