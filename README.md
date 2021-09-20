@@ -12,6 +12,8 @@
 
 - 🔭 Working on **JavaScript and ReactJS**
 
+- ✍️ Writing some interesting **Blogs on Web Dev** at **https://singhsduos.me/**
+
 - 🌱 I’m currently learning **MERN Stack**
 
 - 💬 Ask me about **C++, DBMS, DSA, Web Development**
@@ -31,9 +33,9 @@
 - **Cooking and Eating** 🥣
 
  ## My Publications/Articles/Online Contribution :writing_hand:
-- <a href="https://singhsduos.hashnode.dev/arrays-vs-objects-in-javascript-part-2">
+- <a href="https://singhsduos.me/arrays-vs-objects-in-javascript-part-2">
   Arrays Vs Objects in Javascript Part-2</a>
-- <a href="https://singhsduos.hashnode.dev/arrays-vs-objects-in-javascript-part-1">
+- <a href="https://singhsduos.me/arrays-vs-objects-in-javascript-part-1">
   Arrays Vs Objects in Javascript Part-1</a>
 
 <h3 align="left">Technologies and Tools:</h3>
