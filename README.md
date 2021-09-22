@@ -44,7 +44,7 @@
   
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"> <a href="https://linkedin.com/in/neelesh-singh-b58a6b152/" target="blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="neelesh-singh-b58a6b152/" /> </a>
+<p align="left"> <a href="https://www.linkedin.com/in/neeleshsng/" target="blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="neelesh-singh-b58a6b152/" /> </a>
 <a href="https://www.hackerrank.com/ns9628491678" target="blank"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=white" /> </a>
 <a href="https://www.leetcode.com/ns9628491678" target="blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" /> </a>
 <a href="https://auth.geeksforgeeks.org/user/singhs_duos/profile" target="blank"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" alt="singhs_duos/profile"/> </a>
